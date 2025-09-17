@@ -1,0 +1,9 @@
+# Ignore the virtual environment folder
+.venv/
+venv/
+
+# Ignore the secrets file
+.streamlit/secrets.toml
+
+# Ignore PyCharm specific files
+.idea/
